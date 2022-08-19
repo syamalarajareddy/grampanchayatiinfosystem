@@ -1,0 +1,42 @@
+/*creater:vandana*/
+*{margin:0;padding:0;box-sizinf:border-box;font-family:'ubuntu',sans-serif;}
+body{ background:#4f449866;margin:0 10px;}
+.payment{background:#f8f8f8;max-width:360px;margin:80px auto;height:auto;padding:35px;padding-top:70px;border-radius:5px;position:relative}
+.payment h2{text-align:center;letter-spacing:2px;margin-bottom:40px;color:#55555;}
+.form .label
+{
+   text-align:left;
+   display:block;
+   color:#5555555;
+   margin-bottom:10px;
+}
+
+.form .input{
+    padding:13px 0 13px 25px;
+    width:100%;
+    text-align:left;
+    border:2px solid #ddddddd;
+    border-radius:5 px;
+    letter-spacing:1 px;
+    word-wrap:3 px;
+    outline:none;
+    font-size:16px;
+    color:#55555;
+}
+.card-grp{
+     margin-bottom:40px;
+    display:flex;
+    justify-content:space-between;
+}
+}
+.card-item{
+    width:48%;
+}
+
+}
+.space{
+    margin-bottom:20px;
+}
+.btn 
+{ padding:10px;
+   }

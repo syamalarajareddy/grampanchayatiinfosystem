@@ -1,0 +1,42 @@
+/*center css
+body
+{
+    
+    padding:10px 100px;
+    margin:0;
+}*/
+
+.container1{
+     width:600px;
+     height:400px;
+     margin:100px auto;
+     background:#cfedf1;
+     position:relative;
+     border-radius:10px;
+
+}
+.container h1
+{
+    margin:0;
+    padding:0;
+    font-family:aerial;
+    font-size:2em;
+    text-transform:uppercase;
+    text-align:center;
+    position:relative;
+}
+.button{
+    width:6em;
+    border:2px solid #191b19;
+    background:#ffecf4;
+    border-radius:5px;
+    text-align:center;
+    padding:10px;
+    margin:auto;
+}
+a{text-align:center;
+    display:block;
+    width:100%;
+    line-height:inherit;
+    border-radius:5px;
+}
